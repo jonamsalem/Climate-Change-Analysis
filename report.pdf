@@ -1,0 +1,6 @@
+This process involved cleaning a global temperature dataset by first extracting relevant columns 
+(dt, AverageTemperature, and Country) and filtering out data from specific continents. 
+We identified and counted the rows with missing temperature values (5.6% of the total dataset) and used a MapReduce job 
+to calculate the median temperature for each country. The missing temperature values were then imputed using 
+the corresponding country's median temperature. The cleaned dataset, with all missing values filled, 
+was saved for further analysis.
