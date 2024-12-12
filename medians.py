@@ -5,7 +5,7 @@ import numpy as np
 csv_df = pd.read_csv('tempByCountry.csv', dtype={'AverageTemperature': float}, na_values=['', ' '])
 
 # Step 2: Load the medians.txt file (tab-separated file)
-medians_df = pd.read_csv('medians.txt', sep='\t', header=None, names=['Country', 'Median'])
+medians_df = pd.read_csv('medians_country.txt', sep='\t', header=None, names=['Country', 'Median'])
 
 # Step 3: Merge the two DataFrames on the 'Country' column
 merged_df = pd.merge(csv_df, medians_df, on='Country', how='left')
