@@ -1,0 +1,100 @@
+"cairo"	21.79
+"calcutta"	27.77
+"sydney"	17.11
+"taipei"	22.61
+"bombay"	26.87
+"brasilia"	21.89
+"surabaya"	26.77
+"surat"	26.98
+"ahmadabad"	27.26
+"aleppo"	17.61
+"harbin"	5.7
+"ho chi minh city"	27.4
+"luanda"	24.29
+"madras"	28.74
+"mashhad"	12.57
+"melbourne"	13.1
+"fortaleza"	27.01
+"gizeh"	21.79
+"pune"	24.47
+"rangoon"	26.77
+"paris"	10.12
+"peking"	13.06
+"taiyuan"	9.02
+"tangshan"	12.6
+"bangkok"	27.46
+"belo horizonte"	21.41
+"karachi"	27.59
+"kiev"	7.3
+"nairobi"	16.09
+"nanjing"	16.1
+"rio de janeiro"	23.59
+"riyadh"	25.84
+"durban"	20.19
+"faisalabad"	25.47
+"kabul"	14.64
+"kano"	26.13
+"kanpur"	26.54
+"guangzhou"	22.69
+"harare"	21.19
+"wuhan"	17.4
+"xian"	11.84
+"london"	8.92
+"los angeles"	15.29
+"mexico"	16.32
+"mogadishu"	27.02
+"santo domingo"	26.1
+"sao paulo"	19.76
+"abidjan"	26.22
+"addis abeba"	17.29
+"berlin"	8.8
+"bogota"	19.99
+"toronto"	5.92
+"umm durman"	30.27
+"chongqing"	17.06
+"dakar"	24.75
+"lakhnau"	26.54
+"lima"	16.26
+"montreal"	5.15
+"moscow"	4.12
+"cali"	21.79
+"cape town"	16.07
+"alexandria"	20.46
+"ankara"	10.59
+"hyderabad"	26.63
+"ibadan"	26.4
+"madrid"	10.48
+"manila"	26.38
+"shenyang"	8.54
+"singapore"	26.55
+"baghdad"	23.04
+"bangalore"	24.56
+"seoul"	11.8
+"shanghai"	16.43
+"nagoya"	15.23
+"nagpur"	25.88
+"kinshasa"	24.13
+"lagos"	26.57
+"lahore"	25.47
+"jaipur"	27.06
+"jakarta"	26.47
+"istanbul"	13.42
+"izmir"	16.99
+"delhi"	27.15
+"dhaka"	27.41
+"tianjin"	13.06
+"tokyo"	13.11
+"salvador"	24.65
+"santiago"	5.62
+"new delhi"	27.15
+"new york"	9.41
+"dalian"	11.55
+"dar es salaam"	25.84
+"casablanca"	16.71
+"changchun"	6.74
+"jiddah"	28.01
+"jinan"	14.1
+"rome"	11.36
+"saint petersburg"	3.49
+"chengdu"	11.19
+"chicago"	9.49
